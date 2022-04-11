@@ -19,12 +19,12 @@ Provision of [public goods and services](https://en.wikipedia.org/wiki/Public_go
 Independent budgets with income raising function (through local taxation) and central government transfers.
 
 ## Political
-Locally elected officials and leaders (mayors)
-Local political chambers
-They also have limited ability to create rules in the form of bye-laws
+- Locally elected officials and leaders (mayors)
+- Local political chambers
+- They also have limited ability to create rules in the form of bye-laws
 
 ## Regions
-pt2. Regions have a limited role at time of writing (Regional Development Agencies / CA / Statistics)
+- pt2. Regions have a limited role at time of writing (Regional Development Agencies / CA / Statistics)
 
 # Data
 The data is an attempt to simplify and normalize (1,3,4 and to a limited extent 5) into
@@ -37,8 +37,8 @@ a three tiered geo [ragged hierarchy](https://docs.microsoft.com/en-us/analysis-
 - If you have issues working with some of geojsons, lookup help on "bowties" initially.
 
 ## Appendix
-Have political chambers (assemblies), elected leaders (S+W+NI Holyrood, Cardiff, Stormount), independent budgets and ability to create legislation (rules) that are not considered a "common" to the UK e.g Defense, Maritime
-UK parliment (Westminster) creates legislation to cover the collective common and England.
+- Have political chambers (assemblies), elected leaders (S+W+NI Holyrood, Cardiff, Stormount), independent budgets and ability to create legislation (rules) that are not considered a "common" to the UK e.g Defense, Maritime
+- UK parliment (Westminster) creates legislation to cover the collective common and England.
 
 Thanks and contributions from
 - https://github.com/njh/radiodns-uk
