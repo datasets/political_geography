@@ -3,7 +3,7 @@
 The UK is divided into an administrative (political/economic) hierarchy like
 
 - 1. Country (UK)
-- 2. Countries (E+NI+S+W) (see appendix)
+- 2. Countries* (E+NI+S+W) (see appendix)
 - 3. Regions
 - 4. Counties
 - 5. District / Borough / City / Town
@@ -39,6 +39,9 @@ a three tiered geo [ragged hierarchy](https://docs.microsoft.com/en-us/analysis-
 ## Appendix
 - Have political chambers (assemblies), elected leaders (S+W+NI Holyrood, Cardiff, Stormount), independent budgets and ability to create legislation (rules) that are not considered a "common" to the UK e.g Defense, Maritime
 - UK parliment (Westminster) creates legislation to cover the collective common and England.
+
+## For fun
+- A catchy melody by [Röyksopp](https://www.youtube.com/watch?v=VF8LMQQ0rEw) (NO), detailing a day in the life of a Londoner.
 
 Thanks and contributions from
 - https://github.com/njh/radiodns-uk
