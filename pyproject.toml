@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "political_geography"
+version = "0.1.0"
+description = "International Political geography, refinement of ISO_3166-2"
+authors = ["ellis ford <ellis.ford@datopian.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+frictionless = "^4.28.2"
+pre-commit = "^2.18.1"
+black = "^22.3.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
