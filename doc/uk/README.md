@@ -15,7 +15,7 @@ Which are shaped by various linguistic, historical and political influences.
 See [Councils](https://www.gov.uk/understand-how-your-council-works), which have economic and political functions.
 
 ## Economic
-Provision of [public](https://en.wikipedia.org/wiki/Public_good_(economics) goods and services - education, social housing and care etc.
+Provision of [public goods and services](https://en.wikipedia.org/wiki/Public_good_(economics) - education, social housing and care etc.
 Independent budgets with income raising function (through local taxation) and central government transfers.
 
 ## Political
