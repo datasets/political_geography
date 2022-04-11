@@ -1,4 +1,6 @@
-# The UK is divided into an administrative (political/economic) hierarchy like
+# uk_eng
+
+The UK is divided into an administrative (political/economic) hierarchy like
 
 - 0. Country (UK)
 - 1. Countries (E+NI+S+W) (see appendix)
@@ -22,7 +24,7 @@ Local political chambers
 They also have limited ability to create rules in the form of bye-laws
 
 # Regions
-2. Regions have a limited role at time of writing (Regional Development Agencies / CA / Statistics)
+pt2. Regions have a limited role at time of writing (Regional Development Agencies / CA / Statistics)
 
 # Data
 The data is an attempt to simplify and normalize (1,3,4 and to a limited extent 5) into
