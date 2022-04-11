@@ -1,4 +1,4 @@
-# political_geography
+# political geography
 International political geographies
 
 Intent of this project is to reduce the complexity in ISO_3166-2 and provide code/data that may support that effort.
