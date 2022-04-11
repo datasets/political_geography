@@ -1,7 +1,7 @@
-The UK is divided into an administrative (political/economic) hierarchy like
+# The UK is divided into an administrative (political/economic) hierarchy like
 
 - 0. Country (UK)
-- 1. Countries* (E+NI+S+W)
+- 1. Countries (E+NI+S+W) (see appendix)
 - 2. Regions
 - 3. Counties
 - 4. District / Borough / City / Town
@@ -34,7 +34,8 @@ a three tiered geo [ragged hierarchy](https://docs.microsoft.com/en-us/analysis-
 - It is a little redundant to say, but seeks to apply [MECE](https://en.wikipedia.org/wiki/MECE_principle) principle ie. None intersecting and exhaustive.
 - If you have issues working with some of geojsons, lookup help on "bowties" initially.
 
-* Have political chambers (assemblies), elected leaders (S+W+NI Holyrood, Cardiff, Stormount), independent budgets and ability to create legislation (rules) that are not considered a "common" to the UK e.g Defense, Maritime
+## Appendix
+Have political chambers (assemblies), elected leaders (S+W+NI Holyrood, Cardiff, Stormount), independent budgets and ability to create legislation (rules) that are not considered a "common" to the UK e.g Defense, Maritime
 UK parliment (Westminster) creates legislation to cover the collective common and England.
 
 Thanks and contributions from
