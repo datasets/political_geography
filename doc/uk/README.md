@@ -2,12 +2,12 @@
 
 The UK is divided into an administrative (political/economic) hierarchy like
 
-- 0. Country (UK)
-- 1. Countries (E+NI+S+W) (see appendix)
-- 2. Regions
-- 3. Counties
-- 4. District / Borough / City / Town
-- 5. Parish / Community
+- 1. Country (UK)
+- 2. Countries (E+NI+S+W) (see appendix)
+- 3. Regions
+- 4. Counties
+- 5. District / Borough / City / Town
+- 6. Parish / Community
 
 Which are shaped by various linguistic, historical and political influences.
 
@@ -15,7 +15,7 @@ Which are shaped by various linguistic, historical and political influences.
 See [Councils](https://www.gov.uk/understand-how-your-council-works), which have economic and political functions.
 
 ## Economic
-Provision of [public goods and services](https://en.wikipedia.org/wiki/Public_good_(economics) - education, social housing and care etc.
+Provision of [public](https://en.wikipedia.org/wiki/Public_good_(economics) goods and services - education, social housing and care etc.
 Independent budgets with income raising function (through local taxation) and central government transfers.
 
 ## Political
@@ -23,7 +23,7 @@ Locally elected officials and leaders (mayors)
 Local political chambers
 They also have limited ability to create rules in the form of bye-laws
 
-# Regions
+## Regions
 pt2. Regions have a limited role at time of writing (Regional Development Agencies / CA / Statistics)
 
 # Data
@@ -41,7 +41,7 @@ Have political chambers (assemblies), elected leaders (S+W+NI Holyrood, Cardiff,
 UK parliment (Westminster) creates legislation to cover the collective common and England.
 
 Thanks and contributions from
-https://github.com/njh/radiodns-uk
-https://statistics.data.gov.uk
-https://www.wlga.wales/welsh-local-authority-links
-https://www.mygov.scot/organisations
+- https://github.com/njh/radiodns-uk
+- https://statistics.data.gov.uk
+- https://www.wlga.wales/welsh-local-authority-links
+- https://www.mygov.scot/organisations
