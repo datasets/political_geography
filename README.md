@@ -5,7 +5,7 @@ Intent of this project is to reduce the complexity in ISO_3166-2 and provide cod
 
 When submitting files, please use format:
 - Country
-ISO 3166-1 alpha-2
+CcTLD-Latin [here](https://en.wikipedia.org/wiki/Country_code_top-level_domain#Lists)
 - Language
 ISO 639-2
 
