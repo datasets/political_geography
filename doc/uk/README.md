@@ -24,7 +24,7 @@ Independent budgets with income raising function (through local taxation) and ce
 - They also have limited ability to create rules in the form of bye-laws
 
 ## Regions
-- pt2. Regions have a limited role at time of writing (Regional Development Agencies / CA / Statistics)
+- pt iii. Regions have a limited role at time of writing (Regional Development Agencies / CA / Statistics)
 
 # Data
 The data is an attempt to simplify and normalize (1,3,4 and to a limited extent 5) into
