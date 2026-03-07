@@ -1,0 +1,66 @@
+{
+  "name": "political-geography",
+  "title": "Political Geography",
+  "description": "International political geography reference data with administrative area mappings.",
+  "profile": "data-package",
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Political geography project",
+      "path": "https://datahub.io/core/political_geography",
+      "title": "Political geography"
+    }
+  ],
+  "resources": [
+    {
+      "name": "uk-eng",
+      "path": "data/uk_eng.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "administrative_area_level_1",
+            "type": "string"
+          },
+          {
+            "name": "administrative_area_level_2",
+            "type": "string"
+          },
+          {
+            "name": "administrative_area_level_3",
+            "type": "string"
+          },
+          {
+            "name": "tag",
+            "type": "string"
+          },
+          {
+            "name": "features",
+            "type": "string"
+          },
+          {
+            "name": "url_shape",
+            "type": "string"
+          },
+          {
+            "name": "url",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ],
+  "version": "0.1.0"
+}
